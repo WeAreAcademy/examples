@@ -1,0 +1,20 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeAreAcademy/examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/WeAreAcademy/examples/issues"
+  },
+  "homepage": "https://github.com/WeAreAcademy/examples#readme"
+}
